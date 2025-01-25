@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  min-height: 100vh;
+  align-items: left;
+  margin: 5% 3%;
+  padding: 5%;
+}
+
+.lightTheme {
+  background-color: white;
+  color: black;
+}
+
+.darkTheme {
+  background-color: black;
+  color: white;
+}
+
+.Button{
+  background-color: #00ced1;
+  color: #fff;
+  padding: 2%;
+  margin: 0% 1% 1% 1%;
+  border-radius: 20px;
+  border-width: 0;
+  font-size: 0.9rem;
+  text-align: center;
+  width: 30%;
+}
+
+
+

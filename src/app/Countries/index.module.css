@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    min-height: 100vh;
+    align-items: left;
+    margin: 3% 3%;
+    padding-left: 3vh;
+  }
+
+  .Button{
+    background-color: #00ced1;
+    color: #fff;
+    font-size: 3vh;
+    width: 50vh;
+    height: 7vh;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+    border-radius: 20px;
+    border-width: 0;
+    text-align: center;
+    width: 40%;
+  }
+
+.Title{
+  font-size: 7vh;
+
+}
+.flag{
+  box-shadow: 0 0.2vh 0.4vh rgba(0, 0, 0, 0.3);
+  align-items: center;
+  width: 60vh;
+  height: 40vh;
+  border-radius: 5%;
+}
+
+.CountryBlock h2 {
+  font-size: 4vh;
+  margin: 2vh;
+  margin-top: 5vh;
+}
+
+.CountryBlock p {
+  margin: 2vh;
+  font-size: 3vh;
+}

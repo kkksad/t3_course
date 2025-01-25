@@ -1,0 +1,22 @@
+.title{
+    color: #333;
+  }
+  .skills {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 45%;
+    gap: 1%;
+    margin-bottom: 2%;
+    align-content: left ;
+  }
+  
+  .skill {
+    background-color: #00ced1;
+    color: #fff;
+    padding: 2%;
+    margin: 0% 1% 1% 1%;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    text-align: center;
+  }

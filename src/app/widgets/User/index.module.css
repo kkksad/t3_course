@@ -1,0 +1,23 @@
+.usercard {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .usercard img {
+    border-radius: 50%;
+    width: 30vh;
+    height: 30vh;
+    object-fit: cover;
+  }
+  
+  .usercard h1 {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .usercard h3 {
+    margin: 5px 0;
+    color: #717070;
+  }
+  
