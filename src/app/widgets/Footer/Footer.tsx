@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       const day = date.getUTCDate();
       const month = date.getMonth() + 1; 
       
-      return `Today is ${month}/${day}/${year}`;
+      return `Today is ${day}/${month}/${year}`;
     };
 
     return(
